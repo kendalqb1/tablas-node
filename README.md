@@ -1,11 +1,11 @@
 # Notas:
 Programa en node para crear tablas de multiplicar en la terminal usando yargs
-Instalacion
+### Instalacion
 ```
 npm install 
 ```
+### Opciones
 ```
-Opciones:
       --help     Muestra ayuda                                        [booleano]
       --version  Muestra número de versión                            [booleano]
   -b, --base     Es la base de la tabla de multiplicar      [número] [requerido]
